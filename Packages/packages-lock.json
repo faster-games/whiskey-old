@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.faster-games.t4": {
+      "version": "git+https://github.com/faster-games/t4.git#latest",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9129364fe08a654e27adaa6451464651affa40e8"
+    },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
       "depth": 0,
@@ -24,14 +31,14 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.vscode": {
-      "version": "1.2.1",
+      "version": "1.2.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.1.16",
+      "version": "1.1.18",
       "depth": 0,
       "source": "registry",
       "dependencies": {
