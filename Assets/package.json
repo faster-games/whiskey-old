@@ -1,0 +1,16 @@
+{
+  "name": "com.faster-games.whiskey",
+  "version": "1.0.0",
+  "displayName": "faster-games/whiskey",
+  "description": "Easy to swallow events framework. ⚡🥃🕹",
+  "unity": "2019.1",
+  "dependencies": {},
+  "keywords": [
+    "events",
+    "framework"
+  ],
+  "author": {
+    "name": "Faster Games",
+    "url": "https://github.com/faster-games/whiskey"
+  }
+}
